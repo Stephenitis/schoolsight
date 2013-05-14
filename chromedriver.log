@@ -1,0 +1,15 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 /usr/local/bin/chromedriver
+[0.241][FINE]:      Initializing session with capabilities {
+   "browser_name": "chrome",
+   "chrome.detach": true,
+   "css_selectors_enabled": true,
+   "firefox_profile": null,
+   "javascript_enabled": true,
+   "native_events": false,
+   "platform": "any",
+   "proxy": null,
+   "rotatable": false,
+   "takes_screenshot": false,
+   "version": ""
+}
+

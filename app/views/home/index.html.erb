@@ -1,0 +1,9 @@
+<h1>Welcome to SchoolSight Index</h1>
+
+<% @response["data"].each do |data| %>
+<ul>
+  <% data["data"].each do |k, v| %>
+  <li><%= k %> : <%= v %></li>
+  <% end %>
+</ul>
+<% end %>
